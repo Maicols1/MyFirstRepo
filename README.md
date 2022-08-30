@@ -17,3 +17,5 @@ I like tables:
 | this is | the hader | of my new | Table| 
 | --- | --- | --- | --- |
 | I can | write | anything | here| 
+| 2.3 | 3.4 | 555 | 43 | 
+| Maicol | Salazar |

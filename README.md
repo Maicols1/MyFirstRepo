@@ -20,6 +20,6 @@ I like tables:
 | 2.3 | 3.4 | 555 | 43 | 
 | Maicol | Salazar |
 
-<img width="137"[Zeus-Tattoos-10-30x90](https://user-images.githubusercontent.com/112103956/187476251-0b30749f-a555-4941-a0d8-10a02144c000.jpeg)
+<img width="137"![Zeus-Tattoos-10-30x90](https://user-images.githubusercontent.com/112103956/187476251-0b30749f-a555-4941-a0d8-10a02144c000.jpeg)
 
 <img width="137" alt="Screen Shot 2022-08-29 at 11 25 38 AM" src="https://user-images.githubusercontent.com/2119795/187476018-6332ee74-9bdf-48f5-ac76-d010c300db1d.png">
